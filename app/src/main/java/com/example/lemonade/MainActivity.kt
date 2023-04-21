@@ -131,6 +131,7 @@ fun LemonTextAndImage(
                 )
                 .padding(16.dp)
                 .clickable(onClick = onImageClick)
+                .padding(4.dp)
         )
     }
 }
